@@ -14,7 +14,7 @@ export default function UserCard({ user }) {
   return (
     <article className="card">
       <div className="card-main">
-        <h3>{user.username}</h3>
+        <h3 className="red">{user.username}</h3>
         <p>{user.email}</p>
         <p>
           {user.name?.firstname} {user.name?.lastname}

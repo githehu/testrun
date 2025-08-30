@@ -25,7 +25,7 @@ export default function App() {
       </main>
 
       <footer className="footer">
-        <small>Githehu</small>
+        <small>GROUP 5</small>
       </footer>
     </div>
   );
